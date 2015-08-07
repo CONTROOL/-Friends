@@ -1,0 +1,8 @@
+{
+  "ProjectName": "iPhone",
+  "ProjectGuid": "60ba60b1-b8f9-4575-bbe5-6f50e3c8ac93",
+  "projectVersion": 1,
+  "ProjectTypeGuids": "{da2f9169-4696-40a5-919b-f73985228cac}",
+  "FrameworkVersion": "0.0.1",
+  "Framework": "MobileWebsite"
+}
